@@ -1,0 +1,41 @@
+# <h1 align="center">Laporan Praktikum Modul 1 - Pengenalan Alpro </h1>
+<p align="center">Shellyn - 103112430114</p>
+
+## Unguided 
+
+### 1. Telusuri program berikut dengan cara mengkompilasi dan mengeksekusi program. Silakan masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?
+#### soal1.go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("Hello World!")
+}
+```
+### Output Unguided :
+
+##### Output 
+![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn-Euriska-Putri-/blob/main/modul1/output/soal1.png)
+program tersebut menampilkan hello world
+
+
+### 2. Siswa kelas IPA di salah satu sekolah menengah atas di Indonesia sedang mengadakan praktikum kimia. Di setiap percobaan akan menggunakan 4 tabung reaksi, yang mana susunan warna cairan di setiap tabung akan menentukan hasil percobaan. Siswa diminta untuk mencatat hasil percobaan tersebut. Percobaan dikatakan berhasil apabila susunanwarna zat cair pada gelas 1 hingga gelas 4 secara berturutan adalah ‘merah’, ‘kuning’, ‘hijau’, dan ‘ungu’ selama 5 kali percobaan berulang.
+#### soal2.go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("haiiii")
+}
+```
+### Output Unguided :
+
+##### Output 
+![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn-Euriska-Putri-/blob/main/modul1/output/soal2.png)
+program tersebut menampilkan haiii
