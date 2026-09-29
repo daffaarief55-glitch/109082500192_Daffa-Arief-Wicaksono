@@ -27,8 +27,8 @@ Type modifier mengubah jangkauan atau kapasitas sebuah tipe. unsigned hanya mene
 
 ## Unguided 
 
-### 1. (isi dengan soal unguided 1)
-Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.
+### 1. Buatlah program yang menerima input-an dua buah bilangan betipe float, kemudian memberikan output-an hasil penjumlahan, pengurangan, perkalian, dan pembagian dari dua bilangan tersebut.
+
 ```C++
 #include <iostream>
 using namespace std;
@@ -65,10 +65,48 @@ return 0;
 
 penjelasan unguided 1 
 
-### 2. (isi dengan soal unguided 2)
+### 2.Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100 contoh:
 
 ```C++
-source code unguided 2
+#include <iostream>
+using namespace std;
+
+int main() {
+    int angka;
+
+    cout << "Masukkan angka : ";
+    cin >> angka;
+
+    if (angka < 0 || angka > 100) {
+        cout << "Input harus dari 0 sampai 100.";
+        return 0;
+    }
+
+    string satuan[] = {
+        "nol", "satu", "dua", "tiga", "empat",
+        "lima", "enam", "tujuh", "delapan", "sembilan"
+    };
+
+    if (angka < 10) {
+        cout << angka << " : " << satuan[angka];
+    } else if (angka == 10) {
+        cout << "10 : sepuluh";
+    } else if (angka == 11) {
+        cout << "11 : sebelas";
+    } else if (angka < 20) {
+        cout << angka << " : " << satuan[angka - 10] << " belas";
+    } else if (angka < 100) {
+        cout << angka << " : " << satuan[angka / 10] << " puluh";
+
+        if (angka % 10 != 0) {
+            cout << " " << satuan[angka % 10];
+        }
+    } else {
+        cout << "100 : seratus";
+    }
+
+    return 0;
+}
 ```
 ### Output Unguided 2 :
 
