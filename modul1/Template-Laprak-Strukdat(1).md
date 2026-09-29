@@ -163,7 +163,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![output_latihan3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan3.png?raw=true)
+![output latihan3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan3.png?raw=true)
 
 
 contoh :
@@ -175,8 +175,7 @@ contoh :
 Program ini meminta satu angka n, lalu mencetak pola angka yang makin pendek ke bawah. Perulangan luar memakai i yang mulai dari n dan turun sampai 1, jadi i menentukan jumlah baris. Di setiap baris, perulangan pertama mencetak angka dari i turun ke 1, misalnya 3 2 1. Lalu program mencetak tanda *. Perulangan kedua mencetak angka dari 1 naik ke i, misalnya 1 2 3. endl memindahkan kursor ke baris baru. Untuk n = 3, hasilnya tiga baris: 3 2 1 * 1 2 3, 2 1 * 1 2, dan 1 * 1.
 
 ## Kesimpulan
-...
-
+Dari tiga latihan ini, saya belajar membuat program C++ sederhana dengan cin untuk menerima input dan cout untuk menampilkan output. Pada latihan 1, saya membuat program yang menerima dua bilangan float, lalu menghitung jumlah, selisih, hasil kali, dan hasil baginya dengan operator +, -, *, dan /. Pada latihan 2, saya memakai if-else untuk memilah angka 0 sampai 100 dan array untuk menyimpan kata "nol" sampai "sembilan", sehingga angka 79 bisa tampil sebagai "tujuh puluh sembilan". Pada latihan 3, saya memakai for bersarang untuk mencetak pola mirror dari angka yang diinput. Saya juga belajar bahwa urutan langkah dan tanda baca sangat berpengaruh, karena kurang satu titik koma saja membuat program error.
 ## Referensi
 [1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
 <br>[2] Indahyati, Uce., Rahmawati Yunianita. (2020). "BUKU AJAR ALGORITMA DAN PEMROGRAMAN DALAM BAHASA C++". Sidoarjo: Umsida Press. Diakses pada 10 Maret 2024 melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
