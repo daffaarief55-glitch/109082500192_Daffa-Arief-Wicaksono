@@ -60,7 +60,8 @@ return 0;
 
 
 ##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![Output Latihan 1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png?raw=true)
+
 
 Program ini meminta dua angka, lalu menampilkan hasil tambah, kurang, kali, dan bagi dari keduanya. Angka disimpan di variabel bertipe float supaya bilangan desimal tetap bisa dipakai. cout menampilkan tulisan di layar, cin menerima angka yang Anda ketik, dan operator +, -, *, / menghitung hasilnya.
 
@@ -115,8 +116,7 @@ int main() {
 
 
 ##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
+![output_latihan2](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan2.png?raw=true)
 Program ini meminta satu angka dari 0 sampai 100, lalu menuliskannya dengan kata-kata. Angka 0 sampai 9 disimpan dalam daftar kata (satuan), jadi angka 3 tinggal diambil kata "tiga" dari daftar itu. Program memakai if untuk memilah angka. Angka di luar 0 sampai 100 ditolak. Angka 10 dan 11 punya kata sendiri, yaitu "sepuluh" dan "sebelas". Angka 12 sampai 19 memakai satuannya lalu ditambah "belas", misalnya 15 jadi "lima belas". Angka 20 sampai 99 dibagi 10 untuk mengambil puluhannya, lalu dicek sisa baginya dengan % untuk mengambil satuannya, jadi 79 menjadi "tujuh puluh sembilan". Angka 100 langsung ditulis "seratus".
 
 ### 3. input: 3
