@@ -56,8 +56,7 @@ return 0;
 ### Output Unguided 1 :
 
 ##### Output 1
-[![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png)
-
+![Output Latihan 1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png?raw=true)
 
 
 ##### Output 2
