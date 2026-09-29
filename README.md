@@ -1,4 +1,4 @@
-Repository Praktikum SDT
+# Repository Praktikum Algoritma Pemrograman 2
 
 Nama : Daffa Arief Wicaksono<br/>
 Nim  : 109082500192<br/>
