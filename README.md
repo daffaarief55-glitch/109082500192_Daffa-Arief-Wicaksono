@@ -1,5 +1,4 @@
-# Repository Praktikum Algoritma Pemrograman 2
-
+# Repository Praktikum Struktur data
 Nama : Daffa Arief Wicaksono<br/>
 Nim  : 109082500192<br/>
 Kelas : IF-13-01<br/>
