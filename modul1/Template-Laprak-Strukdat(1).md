@@ -163,6 +163,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
+(https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan3.png)
 
 
 contoh :
