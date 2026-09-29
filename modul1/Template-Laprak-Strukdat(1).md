@@ -63,7 +63,7 @@ return 0;
 ##### Output 2
 ![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
-penjelasan unguided 1 
+Program ini meminta dua angka, lalu menampilkan hasil tambah, kurang, kali, dan bagi dari keduanya. Angka disimpan di variabel bertipe float supaya bilangan desimal tetap bisa dipakai. cout menampilkan tulisan di layar, cin menerima angka yang Anda ketik, dan operator +, -, *, / menghitung hasilnya.
 
 ### 2.Buatlah sebuah program yang menerima masukan angka dan mengeluarkan output nilai angka tersebut dalam bentuk tulisan. Angka yang akan di-input-kan user adalah bilangan bulat positif mulai dari 0 s.d 100 contoh:
 
@@ -111,20 +111,55 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+[![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan2.png)
 
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+
 
 ##### Output 2
 ![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
-penjelasan unguided 2
+Program ini meminta satu angka dari 0 sampai 100, lalu menuliskannya dengan kata-kata. Angka 0 sampai 9 disimpan dalam daftar kata (satuan), jadi angka 3 tinggal diambil kata "tiga" dari daftar itu. Program memakai if untuk memilah angka. Angka di luar 0 sampai 100 ditolak. Angka 10 dan 11 punya kata sendiri, yaitu "sepuluh" dan "sebelas". Angka 12 sampai 19 memakai satuannya lalu ditambah "belas", misalnya 15 jadi "lima belas". Angka 20 sampai 99 dibagi 10 untuk mengambil puluhannya, lalu dicek sisa baginya dengan % untuk mengambil satuannya, jadi 79 menjadi "tujuh puluh sembilan". Angka 100 langsung ditulis "seratus".
 
-### 3. (isi dengan soal unguided 3)
+### 3. input: 3
+output:
+3 2 1 * 1 2 3
+  2 1 * 1 2
+    1 * 1
+      *
 
 ```C++
-source code unguided 3
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+
+    cout << "input: ";
+    cin >> n;
+    cout << "output:" << endl;
+
+   
+    for (int i = n; i >= 1; i--) {
+        
+       
+        for (int j = i; j >= 1; j--) {
+            cout << j << " ";
+        }
+
+        
+        cout << "* ";
+
+        
+        for (int k = 1; k <= i; k++) {
+            cout << k << " ";
+        }
+
+        
+        cout << endl;
+    }
+
+    return 0;
+}
 ```
 ### Output Unguided 3 :
 
@@ -137,7 +172,7 @@ contoh :
 ##### Output 2
 ![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
 
-penjelasan unguided 3
+Program ini meminta satu angka n, lalu mencetak pola angka yang makin pendek ke bawah. Perulangan luar memakai i yang mulai dari n dan turun sampai 1, jadi i menentukan jumlah baris. Di setiap baris, perulangan pertama mencetak angka dari i turun ke 1, misalnya 3 2 1. Lalu program mencetak tanda *. Perulangan kedua mencetak angka dari 1 naik ke i, misalnya 1 2 3. endl memindahkan kursor ke baris baru. Untuk n = 3, hasilnya tiga baris: 3 2 1 * 1 2 3, 2 1 * 1 2, dan 1 * 1.
 
 ## Kesimpulan
 ...
