@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)</h1>
 <p align="center">Muhammad Dhimas Hafizh Fathurrahman - 2311102151</p>
 
 ## Dasar Teori
@@ -176,7 +176,8 @@ Program ini meminta satu angka n, lalu mencetak pola angka yang makin pendek ke 
 
 ## Kesimpulan
 Dari tiga latihan ini, saya belajar membuat program C++ sederhana dengan cin untuk menerima input dan cout untuk menampilkan output. Pada latihan 1, saya membuat program yang menerima dua bilangan float, lalu menghitung jumlah, selisih, hasil kali, dan hasil baginya dengan operator +, -, *, dan /. Pada latihan 2, saya memakai if-else untuk memilah angka 0 sampai 100 dan array untuk menyimpan kata "nol" sampai "sembilan", sehingga angka 79 bisa tampil sebagai "tujuh puluh sembilan". Pada latihan 3, saya memakai for bersarang untuk mencetak pola mirror dari angka yang diinput. Saya juga belajar bahwa urutan langkah dan tanda baca sangat berpengaruh, karena kurang satu titik koma saja membuat program error.
-## Referensi
-[1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
-<br>[2] Indahyati, Uce., Rahmawati Yunianita. (2020). "BUKU AJAR ALGORITMA DAN PEMROGRAMAN DALAM BAHASA C++". Sidoarjo: Umsida Press. Diakses pada 10 Maret 2024 melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
+## Referensi  
+[1] Dewi, L. J. E. (2010). "Media Pembelajaran Bahasa Pemrograman C++". Jurnal Pendidikan Teknologi dan Kejuruan, 7(1). Diakses pada 29 September 2026 melalui https://ejournal.undiksha.ac.id/index.php/JPTK/article/view/31.
+<br>[2] Ihsanmawla, M. W. (2025). "Pengembangan Aplikasi Menu Kafe Menggunakan Bahasa Pemrograman C++ Berbasis Code::Blocks". Jukompak (Jurnal Komputasi dan Pengembangan Aplikasi), 1(4), 33–43. Diakses pada 29 September 2026 melalui https://journals.arces.org/jukompak/article/download/190/114.
+<br>[3] Laboratorium Informatika. "Modul 1: Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)". Modul Praktikum Struktur Data. Bandung: Fakultas Informatika, Telkom University.
 <br>...
