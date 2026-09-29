@@ -110,7 +110,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-(https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan2.png)
+![output_latihan2](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan2.png?raw=true)
 
 
 
