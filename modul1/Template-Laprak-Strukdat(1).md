@@ -163,14 +163,14 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![output latihan3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan3.png?raw=true)
+![output latihan3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/ouput_latihan3.png?raw=true)
 
 
 contoh :
 ![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
 
 ##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+![output latihan3](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/ouput_latihan3.png?raw=true)
 
 Program ini meminta satu angka n, lalu mencetak pola angka yang makin pendek ke bawah. Perulangan luar memakai i yang mulai dari n dan turun sampai 1, jadi i menentukan jumlah baris. Di setiap baris, perulangan pertama mencetak angka dari i turun ke 1, misalnya 3 2 1. Lalu program mencetak tanda *. Perulangan kedua mencetak angka dari 1 naik ke i, misalnya 1 2 3. endl memindahkan kursor ke baris baru. Untuk n = 3, hasilnya tiga baris: 3 2 1 * 1 2 3, 2 1 * 1 2, dan 1 * 1.
 
