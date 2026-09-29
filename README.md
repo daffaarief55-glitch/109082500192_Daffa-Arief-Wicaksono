@@ -1,4 +1,4 @@
-<u>109082500192_Daffa Arief Wicaksono<br/></u>
+Repository Praktikum SDT
 
 Nama : Daffa Arief Wicaksono<br/>
 Nim  : 109082500192<br/>
