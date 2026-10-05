@@ -56,11 +56,9 @@ return 0;
 ### Output Unguided 1 :
 
 ##### Output 1
-![Output Latihan 1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png?raw=true)
+!![Output Latihan 1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png?raw=true)
 
 
-##### Output 2
-![Output Latihan 1](https://github.com/daffaarief55-glitch/109082500192_Daffa-Arief-Wicaksono/blob/main/modul1/output/output_latihan1.png?raw=true)
 
 
 Program ini meminta dua angka, lalu menampilkan hasil tambah, kurang, kali, dan bagi dari keduanya. Angka disimpan di variabel bertipe float supaya bilangan desimal tetap bisa dipakai. cout menampilkan tulisan di layar, cin menerima angka yang Anda ketik, dan operator +, -, *, / menghitung hasilnya.
